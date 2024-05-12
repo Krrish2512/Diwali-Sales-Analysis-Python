@@ -1,4 +1,4 @@
-# Python-Data-Analysis
+# Diwali-Sales-Analysis-Python
 
 This project focused on data exploration and visualization using Python, particularly targeting insights into consumer behavior across different demographics and industries. Leveraging technologies such as Jupyter Notebook, Python, and various libraries including NumPy, Pandas, Matplotlib, and Seaborn, the project aimed to extract actionable insights from raw data.
 
